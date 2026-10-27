@@ -1,0 +1,13 @@
+id,group,sleep_hours,rt_ms
+201,Control,6.5,520
+202,Control,7.0,480
+203,Control,5.5,560
+204,Control,8.0,450
+205,Control,6.0,-99
+206,Control,7.5,495
+207,Training,7.0,465
+208,Training,6.5,530
+209,Training,8.5,1450
+210,Training,5.0,555
+211,Training,7.5,460
+212,Training,6.0,515
